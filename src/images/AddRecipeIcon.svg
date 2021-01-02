@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86.909" height="65.057" viewBox="0 0 86.909 65.057">
+  <g id="Component_30_1" data-name="Component 30 – 1" transform="translate(0 0.686)">
+    <path id="Icon_ionic-ios-add" data-name="Icon ionic-ios-add" d="M33.729,20.422H23.813V10.594a1.644,1.644,0,0,0-3.288,0v9.828H10.609a1.642,1.642,0,0,0-1.644,1.629A1.617,1.617,0,0,0,9.448,23.2a1.646,1.646,0,0,0,1.161.479h9.916v9.828a1.617,1.617,0,0,0,.483,1.151,1.645,1.645,0,0,0,2.805-1.151V23.681h9.916a1.63,1.63,0,1,0,0-3.259Z" transform="translate(51.035 -8.594)" fill="#fff" stroke="#fff" stroke-width="1"/>
+    <path id="Icon_awesome-hard-hat" data-name="Icon awesome-hard-hat" d="M53.533,29.482c0-8.95-4.79-16.44-13.293-19.809s-9.832-1.618-9.832-1.618c0-.986,4.482-3.555,3.5-3.555H23.2c-.986,0,3.872,2.569,3.872,3.555,0,0-3.308-1.058-10.207,1.618S3.569,20.532,3.569,29.482V36.62H53.533Zm1.784,10.707H1.784A1.784,1.784,0,0,0,0,41.973v3.569a1.784,1.784,0,0,0,1.784,1.784H55.317A1.784,1.784,0,0,0,57.1,45.542V41.973A1.784,1.784,0,0,0,55.317,40.188Z" transform="translate(0 17.045)" fill="#fff"/>
+    <path id="Path_32" data-name="Path 32" d="M0,0S4.548,2.745,3.178,6.058C1.933,9.729-2.005,9.1-2.8,12.146S0,18.234,0,18.234" transform="translate(17.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_33" data-name="Path 33" d="M0,0S4.548,2.745,3.178,6.058C1.933,9.729-2.005,9.1-2.8,12.146S0,18.234,0,18.234" transform="translate(28.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_34" data-name="Path 34" d="M0,0S4.548,2.745,3.178,6.058C1.933,9.729-2.005,9.1-2.8,12.146S0,18.234,0,18.234" transform="translate(39.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>
