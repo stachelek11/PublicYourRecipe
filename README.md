@@ -1,5 +1,5 @@
 # YourRecipe
-An aplication halp people with find recipes based on choosed products.
+An aplication help people with find recipes based on choosed products.
 # Technologies
 React, Redux, JS, Styled components, Material UI
 
